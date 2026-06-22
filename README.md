@@ -10,7 +10,7 @@ Features include:
 
 Link:
 
-[voxels.caulli.com](https://voxels.caulli.com/)](https://voxels.arkanlily.dev/) (Requires chrome or firefox nightly build)
+[voxels.caulli.com](https://voxels.caulli.com/)(https://voxels.arkanlily.dev/) (Requires chrome or firefox nightly build)
 
 To run locally, simply run http-server and open localhost in a browser with WebGPU support
 
